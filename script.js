@@ -1,5 +1,5 @@
 const SecretNumber = parseInt(Math.random() * 10);
-var attempts = 5;
+var attempts = 3;
 const button = document.querySelector("button");
 
 
